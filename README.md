@@ -1,16 +1,13 @@
-# body_cal
+# **BodyCal – A Simple Health Calculator App**  
 
-A new Flutter project.
+**BodyCal** is a Flutter-powered health calculator app designed to provide quick calculations for essential health metrics. It features four tools to help users estimate their daily needs:  
 
-## Getting Started
+## 🚀 Features  
+-  **BmiCal** – Calculates Body Mass Index (BMI)  
+-  **ProtiCal** – Estimates daily protein intake based on weight and activity level  
+-  **HydroCal** – Suggests daily water intake requirements  
+-  **MegaCal** – A single tool that combines all three calculations  
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack  
+- **Frontend:** Flutter  
+- **Language:** Dart   
